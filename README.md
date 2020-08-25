@@ -1,3 +1,5 @@
+<h1 align="center"><img src="/images/logo.svg">Jordan Rocha</h1>
+
 ### Hi there 👋
 
 <!--
