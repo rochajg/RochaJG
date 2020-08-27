@@ -1,4 +1,6 @@
-<h1 align="center"><img src="/images/logo-text.png"></h1>
+<p align="center">
+    <img src="https://github.com/rochajg/rochajg/raw/master/images/logo-text.png" alt="Jordan Rocha"/>
+</p>
 
 ### Hi there 👋
 
