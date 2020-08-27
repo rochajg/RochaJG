@@ -1,4 +1,4 @@
-<h1 align="center"><img src="/images/logo.svg">Jordan Rocha</h1>
+<h1 align="center"><img src="/images/logo-text.svg"></h1>
 
 ### Hi there 👋
 
