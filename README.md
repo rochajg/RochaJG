@@ -1,4 +1,4 @@
-<h1 align="center"><img src="/images/logo-text.svg"></h1>
+<h1 align="center"><img src="/images/logo-text.png"></h1>
 
 ### Hi there 👋
 
