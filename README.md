@@ -1,5 +1,6 @@
 <p align="center">
     <img src="https://github.com/rochajg/rochajg/raw/master/images/logo-text.png" alt="Jordan Rocha"/>
+    <img src="https://github.com/rochajg/rochajg/raw/master/images/bar-separator.svg" alt="_"/>
 </p>
 
 ### Hi there 👋
